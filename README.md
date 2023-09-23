@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Mahima Gupta, a tech enthusiast mastering HTML, CSS, JS, React.js, Node.js, C++, and Python. Former Event Head, currently diving into Machine Learning. Let's collaborate! Reach me at mahimagupta728@gmail.com. Check out my projects below and star your favorites! ⭐
+###  Hello there! 😄 I'm Mahima Gupta, a tech enthusiast deeply immersed in the world of coding. I've gained proficiency in several languages like HTML, CSS, JavaScript, React.js, Node.js, C++, and Python. Creating engaging web applications is something I genuinely enjoy, and I've had the privilege of organizing events as an Event Head. Currently, I'm on an exciting journey of learning Machine Learning, and I'm eager to delve into its details and potential applications. I'm always open to collaborations and excited to explore new projects. Please feel free to reach out at mahimagupta728@gmail.com , and do take a moment to check out the projects I've shared below!
 
 👋 Greetings! I'm Mahima Gupta, a tech enthusiast proficient in HTML, CSS, JavaScript, React.js, Node.js, C++, and Python.
 
