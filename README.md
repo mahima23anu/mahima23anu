@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Mahima Gupta, a tech enthusiast mastering HTML, CSS, JS, React.js, Node.js, C++, and Python. Former Event Head, currently diving into Machine Learning. Let's collaborate! Reach me at [mahimagupta728@gmail.com]. Check out my projects below and star your favorites! ⭐
+### 👋 Hi, I'm Mahima Gupta, a tech enthusiast mastering HTML, CSS, JS, React.js, Node.js, C++, and Python. Former Event Head, currently diving into Machine Learning. Let's collaborate! Reach me at mahimagupta728@gmail.com. Check out my projects below and star your favorites! ⭐
 
 <!--
 **mahima23anu/mahima23anu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
